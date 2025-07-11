@@ -1,0 +1,10 @@
+1|Peru
+2|Colombia
+3|Argentina
+4|Chile
+5|Ecuador
+6|Bolivia
+7|Brasil
+8|Uruguay
+9|Paraguay
+10|Venezuela

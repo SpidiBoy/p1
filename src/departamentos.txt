@@ -1,0 +1,23 @@
+101|Lima|1
+102|Arequipa|1
+103|Cusco|1
+104|Trujillo|1
+105|Piura|1
+201|Bogota|2
+202|Medellin|2
+203|Cartagena|2
+301|Buenos Aires|3
+302|Cordoba|3
+303|Mendoza|3
+401|Santiago|4
+402|Valparaiso|4
+501|Quito|5
+502|Guayaquil|5
+601|La Paz|6
+602|Santa Cruz|6
+701|Sao Paulo|7
+702|Rio de Janeiro|7
+703|Brasilia|7
+801|Montevideo|8
+901|Asuncion|9
+1001|Caracas|10
